@@ -22,10 +22,10 @@ logger.setLevel(logging.INFO)
 
 
 # authorize the app to access Twitter on our behalf
-consumer_key = 'kxlyrSPGz6E3mDoVo2G4TbCzf'
-consumer_secret = '3OmApP221fRRCcU66jJayGwwFXMz4DdoFyNPPCd6jNx0nI4FQF'
-access_token = '987065552517517312-nwdv2XraOXI0TTjAwX2te0mriO1V6bT'
-access_secret = 'CM6Hank7UkPpl7EF03elBM7Ha1flD2KfycDdwn5s5Oo1s'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_secret = ''
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
 api = tweepy.API(auth)
