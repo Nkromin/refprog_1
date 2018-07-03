@@ -11,6 +11,8 @@ visualised using the forms of a) a interactive web pages, using
 different JS and CSS, and b) bar graphs. This initial prototype will represent the core engine of our project
 and sentiment social media analysis.
 </br>
+</br>
+<pre>          </pre>
 <strong><u>Motivation and Overview</u></strong></br>
 The rapid increase of social media in the recent years has provided users a platform to
 voice their opinions.
@@ -23,7 +25,9 @@ to categorize the tweets which makes it easy to search. It is also observed that
 representatives/ political leaders are very much active in Twitter to express their views and opinions.
 In this work we have taken recent tweets of two major political parties (BJP and Congress) to Analyze the
 tweet pattern of the respective parties.
-<strong><u>Objective</u></strong></br>
+</br>
+</br>
+<pre>          </pre><strong><u>Objective</u></strong></br>
 Traditionally, conducting the above analysis
 requires the prolonged process of designing, distributing and analysing research. Also,
 customers may not take it seriously, making the results unreliable or biased. Nowadays,
@@ -31,7 +35,9 @@ people are more willing to share their opinions freely on social media. To contr
 automating the process and understanding social stream data and to overcome these
 challenges, our platform is designed on interpreting
 social realities .
-<strong><u>The Problem Statement</u></strong></br>
+</br>
+</br>
+<pre>          </pre><strong><u>The Problem Statement</u></strong></br>
 One potential problem faced by users is to believe the credibility of the source regarding elections. Less
 than 10 years ago,
 similar analysis would not have been possible, but due to the rise of social media
