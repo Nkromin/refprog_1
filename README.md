@@ -10,6 +10,21 @@ to search for specific terms on Twitter; the retrieved results are presented and
 visualised using the forms of a) a interactive web pages, using
 different JS and CSS, and b) bar graphs. This initial prototype will represent the core engine of our project
 and sentiment social media analysis.
+-<pre>          </pre>
+</br>
+</br>
+<strong><u>Motivation and Overview</u></strong></br>
+The rapid increase of social media in the recent years has provided users a platform to
+voice their opinions.
+There are many platforms available but the actively used are Facebook, Twitter and Google+. Twitter is
+an
+online social networking service that enables users to send and read short 140-character messages called
+"tweets". Every tweets contains a hash tags with the short messages, users use the hash tags “#” before
+tweets
+to categorize the tweets which makes it easy to search. It is also observed that all Indian political party
+representatives/ political leaders are very much active in Twitter to express their views and opinions.
+In this work we have taken recent tweets of two major political parties (BJP and Congress) to Analyze the
+tweet pattern of the respective parties.
 </br>
 </br>
 <pre>          </pre><strong><u>Objective</u></strong></br>
