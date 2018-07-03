@@ -6,10 +6,10 @@ from datetime import datetime
 import os
 # Fill the X's with the credentials obtained by
 # following the above mentioned procedure.
-consumer_key = 'kxlyrSPGz6E3mDoVo2G4TbCzf'
-consumer_secret = '3OmApP221fRRCcU66jJayGwwFXMz4DdoFyNPPCd6jNx0nI4FQF'
-access_key = '987065552517517312-nwdv2XraOXI0TTjAwX2te0mriO1V6bT'
-access_secret = 'CM6Hank7UkPpl7EF03elBM7Ha1flD2KfycDdwn5s5Oo1s'
+consumer_key = ''
+consumer_secret = ''
+access_key = ''
+access_secret = ''
 path=""
 
 
