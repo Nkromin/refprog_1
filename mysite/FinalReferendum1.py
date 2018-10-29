@@ -3,7 +3,7 @@ import pandas as pd
 
 
 from plotly.offline import iplot
-
+#basic syllabus
 import re
 import plotly
 plotly.tools.set_credentials_file(username='AlmightyHeathcliff', api_key='m9tmWBi9h3qzn3UMn9Gq')
